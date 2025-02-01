@@ -10,10 +10,18 @@ sections:
     subtitle: >-
       Na tej stronie znajdziecie wszystko o moich ulubionych książkach i nie
       tylko
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Czytanie to podróż, która nie ma końca. Witaj na stronie, gdzie miłość do
+      literatury łączy się z pasją do odkrywania nowych historii. Prezentujemy
+      recenzje, analizy i ciekawostki o książkach, które inspirują, poruszają i
+      zmieniają sposób myślenia.
+
+
+      Niezależnie od tego, czy kochasz klasykę, fantastykę, thrillery czy
+      literaturę współczesną – znajdziesz tutaj coś dla siebie!
+
+
+
     actions:
       - label: Get started
         altText: ''
