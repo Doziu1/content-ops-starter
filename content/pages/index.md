@@ -7,7 +7,9 @@ sections:
       text: CZEŚĆ JESTEM OLA
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Na tej stronie znajdziecie wszystko o moich ulubionych książkach i nie
+      tylko
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
