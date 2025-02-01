@@ -37,7 +37,7 @@ sections:
       type: ImageBlock
       url: "/images/Bez\_tytułu.png"
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
