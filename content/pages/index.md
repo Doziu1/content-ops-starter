@@ -37,7 +37,7 @@ sections:
       type: ImageBlock
       url: "/images/Bez\_tytułu.png"
     badge:
-      label: ''
+      label: Książkowe mole
       color: text-primary
       type: Badge
     elementId: ''
