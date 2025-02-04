@@ -169,7 +169,7 @@ sections:
     title:
       type: TitleBlock
       text: '                         Moje TOP 3'
-      color: text-neutral
+      color: text-primary
       styles:
         self:
           textAlign: center
