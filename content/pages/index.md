@@ -162,6 +162,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+        margin:
+          - ml-12
     type: FeaturedPostsSection
     hoverEffect: move-up
     title:
