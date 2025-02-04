@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Okrutny książę
 slug: case-study-2
 date: '2025-01-01'
 excerpt: >-
