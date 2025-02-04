@@ -210,13 +210,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
