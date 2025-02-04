@@ -109,10 +109,10 @@ sections:
         type: FeaturedItem
       - title: Rozwój empatii i wyobraźni
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2+
+
+           Wcielając się w bohaterów literackich, lepiej rozumiemy ich emocje i motywacje. To zwiększa naszą empatię oraz kreatywność, pomagając w budowaniu głębszych relacji międzyludzkich.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
