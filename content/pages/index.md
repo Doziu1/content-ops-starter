@@ -27,7 +27,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: "/images/Bez\_tytułu.png"
+      url: /images/900f3134f71a595122200f9d4ab6fd7d.jpg
       styles:
         self:
           borderRadius: x-large
