@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: Poprawa koncentracji i redukcja stresu
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2+
+
+           Regularne czytanie wzmacnia zdolność skupienia się na jednej czynności przez dłuższy czas. Ponadto literatura pomaga się odprężyć, redukując poziom stresu i poprawiając samopoczucie.
+
         image:
           altText: Featured icon two
           elementId: ''
