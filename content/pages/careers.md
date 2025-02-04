@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: "O mnie \U0001F4D6✨"
       color: text-dark
     subtitle: Be in good company
     text: >
