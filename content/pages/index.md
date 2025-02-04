@@ -28,6 +28,9 @@ sections:
       elementId: ''
       type: ImageBlock
       url: "/images/Bez\_tytułu.png"
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       label: Książkowe mole
       color: text-primary
