@@ -199,7 +199,7 @@ sections:
       text: Co następnego przeczytać?
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Daj mi pomysł a napewno pojawi sie na moim blogu!
     text: ''
     media:
       fields:
