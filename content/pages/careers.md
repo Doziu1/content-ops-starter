@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: "O mnie \U0001F4D6✨"
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
