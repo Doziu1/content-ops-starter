@@ -170,6 +170,9 @@ sections:
       type: TitleBlock
       text: '                         Moje TOP 3'
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
