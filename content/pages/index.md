@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Rozwój intelektualny i wiedzy
-        subtitle: Numbers Done
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
