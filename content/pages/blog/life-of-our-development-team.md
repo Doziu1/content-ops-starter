@@ -2,10 +2,7 @@
 title: Maybe You
 slug: life-of-our-development-team
 date: '2025-01-15'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
