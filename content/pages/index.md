@@ -206,7 +206,7 @@ sections:
         - name: Imię
           label: Imię
           hideLabel: true
-          placeholder: Your name
+          placeholder: Imię
           isRequired: true
           width: full
           type: TextFormControl
