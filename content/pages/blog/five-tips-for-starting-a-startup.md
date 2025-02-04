@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: 11 papierowych serc
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
