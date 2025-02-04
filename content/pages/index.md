@@ -116,7 +116,6 @@ sections:
           Wcielając się w bohaterów literackich, lepiej rozumiemy ich emocje i
           motywacje. To zwiększa naszą empatię oraz kreatywność.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
