@@ -168,7 +168,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Moje TOP 3
+      text: '                         Moje TOP 3'
       color: text-dark
     subtitle: ''
   - title: Divider
