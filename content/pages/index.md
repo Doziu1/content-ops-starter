@@ -27,7 +27,6 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/900f3134f71a595122200f9d4ab6fd7d.jpg
       styles:
         self:
           borderRadius: x-large
