@@ -13,10 +13,6 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
