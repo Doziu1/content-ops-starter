@@ -204,7 +204,7 @@ sections:
     media:
       fields:
         - name: Imię
-          label: Name
+          label: Imię
           hideLabel: true
           placeholder: Your name
           isRequired: true
