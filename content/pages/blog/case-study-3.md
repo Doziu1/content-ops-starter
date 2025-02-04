@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Księżniczka incognito
 slug: case-study-3
 date: '2024-10-10'
 excerpt: >-
