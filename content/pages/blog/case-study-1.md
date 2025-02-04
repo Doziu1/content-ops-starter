@@ -1,7 +1,7 @@
 ---
 title: Case study 1
 slug: case-study-1
-date: ''
+date: '0002-01-10'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
