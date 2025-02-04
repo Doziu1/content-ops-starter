@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Cień i kość
 slug: case-study-1
 date: '2025-01-10'
 excerpt: >-
