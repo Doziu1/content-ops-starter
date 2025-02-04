@@ -56,10 +56,12 @@ sections:
       - type: FeaturedItem
         title: Rozwój intelektualny i wiedzy
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Książki poszerzają horyzonty, wzbogacają słownictwo i rozwijają
+          zdolność analitycznego myślenia. Dzięki nim możemy zdobywać nową
+          wiedzę i lepiej rozumieć świat.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
