@@ -168,7 +168,7 @@ sections:
       type: TitleBlock
       text: This Is A Big Headline
       color: text-dark
-    subtitle: Moje TOP 3
+    subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
