@@ -2,162 +2,22 @@
 title: Careers
 slug: careers
 sections:
-  - title:
-      text: A team that works closely together
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    colors: bg-neutral-fg-dark
+      text: "O mnie \U0001F4D6✨"
+      color: text-dark
+    subtitle: ''
+    text: "Cześć! Nazywam się Ola i jestem prawdziwą książkoholiczką. \U0001F4DA Książki towarzyszą mi od najmłodszych lat i stały się nieodłączną częścią mojego życia. Czytam praktycznie wszędzie – w domu, w podróży, w autobusie, przy filiżance gorącej herbaty i pod ciepłym kocem w zimowe wieczory. Nic nie sprawia mi większej radości niż zatopienie się w fascynującej historii, która pozwala mi oderwać się od codzienności i przenieść do innego świata.\n\nUwielbiam różne gatunki literackie – od wciągających powieści fantasy, które zabierają mnie w magiczne krainy, po wzruszające romanse i pełne napięcia thrillery. Szczególne miejsce w moim sercu zajmują książki z wyrazistymi bohaterami i nietuzinkowymi historiami, które potrafią wywołać uśmiech, łzy i dreszcze emocji. Mam słabość do pięknych wydań – uwielbiam zaglądać do księgarni i przeglądać książki z cudownymi okładkami oraz starannie wydane kolekcjonerskie edycje.\n\nPoza czytaniem lubię również pisać – dlatego stworzyłam tego bloga! Chcę dzielić się swoimi literackimi odkryciami, recenzjami, przemyśleniami oraz inspiracjami książkowymi. Uwielbiam rozmawiać o książkach i wymieniać się opiniami, dlatego mam nadzieję, że znajdziesz tutaj coś dla siebie i razem będziemy celebrować radość płynącą z czytania!\n\nGdy akurat nie mam książki w ręku, można mnie spotkać na spacerach, przy kubku ulubionej kawy albo buszującą wśród regałów księgarni i bibliotek. Jestem typem osoby, która nie wyobraża sobie dnia bez choćby kilku przeczytanych stron.\n\n\U0001F4D6 Jeśli jesteś miłośnikiem książek, to świetnie trafiłeś! Zapraszam Cię do wspólnej podróży przez literackie światy i mam nadzieję, że razem odkryjemy mnóstwo wspaniałych historii. \U0001F60A\U0001F49B\n\n\n\n"
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
         alignItems: center
         flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
-  - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
